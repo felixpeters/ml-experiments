@@ -6,3 +6,4 @@ Central repository for playing around with new and exciting technologies
 
 List of data sources:
 - IEEE-CIS Fraud Detection: [Kaggle competition](https://www.kaggle.com/c/ieee-fraud-detection/data)
+- Insurance cost prediction: [Kaggle dataset](https://www.kaggle.com/mirichoi0218/insurance)
