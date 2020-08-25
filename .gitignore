@@ -1,4 +1,7 @@
 venv
+.hypothesis
+.pytest_cache
 data
 .swp
 nbs/.ipynb_checkpoints
+__pycache__
