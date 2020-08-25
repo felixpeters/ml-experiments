@@ -3,5 +3,8 @@ venv
 .pytest_cache
 data
 .swp
+.code-workspace
+.vscode
+ml-experiments.code-workspace
 nbs/.ipynb_checkpoints
 __pycache__
