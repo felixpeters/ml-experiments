@@ -1,4 +1,5 @@
 venv
+.env
 .hypothesis
 .pytest_cache
 data
