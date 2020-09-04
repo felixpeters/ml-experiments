@@ -2,6 +2,13 @@
 
 Central repository for playing around with new and exciting technologies
 
+## Setup
+
+Certain experiments require setting environment variables, e.g., for authentication
+with services like Docker Hub, Paperspace, etc. See the `.env.example` file for
+all environment variables that may be required. The techonologies/datasets below
+list the required environment variables.
+
 ## Technologies
 
 List of useful resources for finding new technologies:
