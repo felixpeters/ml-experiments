@@ -2,7 +2,8 @@ FROM nvidia/cuda:11.0-base
 CMD nvidia-smi
 
 #set up environment
-RUN apt-get update && apt-get install --no-install-recommends --no-install-suggests -y \
+export DEBIAN_FRONTEND=noninteractive
+RUN apt-get update && apt-get install --no-install-recommends --no-install-suggests -yq \
   build-essential \
   cmake \
   git \
