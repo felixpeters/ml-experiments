@@ -1,4 +1,4 @@
-FROM nvidia/cuda:11.0-base
+FROM nvidia/cuda:11.0-cudnn8-runtime-ubuntu18.04
 CMD nvidia-smi
 
 #set up environment
