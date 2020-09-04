@@ -34,3 +34,8 @@ List of data sources:
 - [News API](https://newsapi.org/): 
   - Open a free developer account to retrieve API key.
   - Add `NEWS_API_KEY=[YOUR_KEY]` to `.env` file.
+
+## Issues
+
+- [ ] Docker image: Enable GPU support for TensorFlow
+- [ ] Documenatation: Add more detailed setup instructions
