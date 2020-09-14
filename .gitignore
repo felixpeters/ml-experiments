@@ -10,4 +10,5 @@ data
 ml-experiments.code-workspace
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.joblib
 __pycache__
