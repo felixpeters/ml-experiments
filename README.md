@@ -35,6 +35,13 @@ List of data sources:
   - Open a free developer account to retrieve API key.
   - Add `NEWS_API_KEY=[YOUR_KEY]` to `.env` file.
 
+## Planned experiments
+
+Unsupervised learning:
+
+- [ ] Apply [clustering techniques](https://scikit-learn.org/stable/modules/clustering.html) to [credit card dataset](https://www.kaggle.com/arjunbhasin2013/ccdata)
+- [ ] Test [t-SNE algorithm](https://lvdmaaten.github.io/tsne/) (see [guide](https://distill.pub/2016/misread-tsne/) from Distill.pub)
+
 ## Issues
 
 - [ ] Docker image: Enable GPU support for TensorFlow
