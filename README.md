@@ -31,6 +31,7 @@ List of data sources:
 
 - IEEE-CIS Fraud Detection: [Kaggle competition](https://www.kaggle.com/c/ieee-fraud-detection/data)
 - Insurance cost prediction: [Kaggle dataset](https://www.kaggle.com/mirichoi0218/insurance)
+- Credit card customers: [Kaggle dataset](https://www.kaggle.com/arjunbhasin2013/ccdata)
 - [News API](https://newsapi.org/): 
   - Open a free developer account to retrieve API key.
   - Add `NEWS_API_KEY=[YOUR_KEY]` to `.env` file.
